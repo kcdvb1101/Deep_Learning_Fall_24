@@ -1,6 +1,6 @@
 kchell@mx:~/Downloads/fwremediationbaredeliverables
 $ tree
-.
+ 
 ├── final
 │   ├── all_in_one_final.pdf
 │   ├── big_spreadsheet_final.xlsx
